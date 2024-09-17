@@ -1,0 +1,9 @@
+{
+    "label": "Boklista",
+    "description": "Tre olika böcker ",
+    "isbns": [
+        "9780231549165",
+        "9781624173134",
+        "9789027215802"
+    ]
+}
