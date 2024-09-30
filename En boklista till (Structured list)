@@ -1,0 +1,13 @@
+{
+    "label": "En boklista till",
+    "description": "Testar Structured list",
+    "list": [
+        {
+            "label": "Title",
+            "isbns": [
+                "9780521547611",
+                "9780511126109"
+            ]
+        }
+    ]
+}
