@@ -1,0 +1,10 @@
+{
+    "label": "Simple list",
+    "description": "Testar simple list ",
+    "isbns": [
+        "9789144177809",
+        "9781032560649",
+        "9780262525022",
+        "9780521547611"
+    ]
+}
